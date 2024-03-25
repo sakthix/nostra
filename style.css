@@ -42,6 +42,7 @@ body{
     color: white;
     transition: 1s;
     cursor: pointer;
+    z-index: 1;
 }
 .side-navbar-link{
     margin-bottom: 30px;
